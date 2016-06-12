@@ -1,12 +1,11 @@
 <?php
-namespace Stylite;
+namespace Miniyard;
 /**
  * 
  * 视图
  * @author mantou
  *
  */
-namespace Miniyard;
 class View{
     
     /**
